@@ -1,8 +1,8 @@
 # Ali's first CS193 Homework
 
 
--run by students
+- run by students
 
--relatively small class size 
+- relatively small class size 
 
--(hopefully) pretty easy 
+- (hopefully) pretty easy 
