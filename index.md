@@ -1,5 +1,5 @@
-#Ali's first CS193 Homework 
+#Ali's first CS193 Homework
 
 -run by students
--relatively small class size
--(hopefully) pretty easy
+-relatively small class size 
+-(hopefully) pretty easy 
